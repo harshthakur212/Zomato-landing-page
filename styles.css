@@ -6,8 +6,10 @@
 
 }
 
+
 .hero__section {
     background: url(/images/heroSectionBackground.png);
+
     background-position: center;
     background-size: cover;
     color: white;
@@ -253,6 +255,7 @@
     .input__container_location {
         border-right: none;
     }
+
 
     .we__offer .card:hover {
         transform: scale(1.05);
@@ -613,3 +616,4 @@ input_container {
         grid-template-columns:  1fr;
     }
 }
+
